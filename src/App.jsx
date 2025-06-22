@@ -11,7 +11,6 @@ const App = () => {
       <Navbar/>
       <Hero/>
       <Cocktails/>
-      {/* <div className="h-[100dvh] bg-black"></div> */}
     </main>
   )
 }
